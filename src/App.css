@@ -46,6 +46,9 @@
   margin-right: .5rem;
   color: var(--color-primary);
 }
+.hero-section video{
+  -repeat: no-repeat;
+}
 .loading-message{
   text-align: center;
 }
