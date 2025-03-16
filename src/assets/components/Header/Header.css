@@ -1,0 +1,37 @@
+.dictionary-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-contents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+.header-text{
+    font-family: var(--prime-font);
+}
+.header-contents{
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+.header-contents svg{
+    font-size: 2rem;
+}
+@media screen and (max-width: 71.875em){
+    .header-text{
+      font-size: 1rem;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: auto;
+    }
+    .header-logo{
+        display: none;
+    }
+    .header-contents{
+        display: none;
+    }
+  }

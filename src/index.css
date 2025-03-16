@@ -6,10 +6,22 @@
 html{
   font-size: 62.5%;
 }
+html,body{
+  width: 100%;
+  overflow-x: hidden;
+}
 body{
   font-size: 1.6rem;
   font-family: var(--prime-font);
+  background-color: var(--prime-color);
 }
 :root{
   --prime-font: "PT Serif", serif;
+  --prime-color: #FFFFFFCC;
+  --primary-color: #050505;
+  --secondary-color: #333333;
+  --tertiary-color: #cfdcee;
+  --color-primary: #FFFFFF;
+  --color-prime: #FC4100;
+  --color-secondary: #0E72ED;
 }
