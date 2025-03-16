@@ -91,7 +91,7 @@ function App() {
     </div>
     <div className="footer-section">
       <p className="footer-details">
-        &copy; 2025 Pascal Juma All CopyRight Reserved. Powered by Creative <span className="footer-branding">Vortex.</span>
+        &copy; 2025 Pascal Juma. All CopyRight Reserved. Powered by Creative  <span className="footer-branding">  Vortex.</span>
       </p>
     </div>
     </>

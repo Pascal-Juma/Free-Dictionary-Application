@@ -124,4 +124,10 @@
   position: absolute;
   bottom: 0;
   width: 100%;
+  padding-bottom: 3.5rem;
+}
+.footer-branding{
+  color: var(--color-prime);
+  margin-left: .5rem;
+  font-weight: 700;
 }
